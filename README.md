@@ -22,3 +22,9 @@ This project is just starting so there's a lot to do.
 If you are skilled at doing textures, please, jump in!
 If you have some time to spare, help us compare locations of the map with the indicated resource icons.
 Otherwise if you find anything you think is wrong or have any suggestions, please let us know!
+
+Here are some screenshots of some of the progress so far:
+![Look at the Gargwas!](SCREENSHOTS/screenshot03.jpg?raw=true "Look at the Gargwas!")
+![MH MAP](SCREENSHOTS/screenshot01.jpg?raw=true "MAP")
+![MH MAP](SCREENSHOTS/screenshot02.jpg?raw=true "MAP2")
+
