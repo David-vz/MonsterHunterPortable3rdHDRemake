@@ -25,6 +25,8 @@ Otherwise if you find anything you think is wrong or have any suggestions, pleas
 
 Here are some screenshots of some of the progress so far:
 ![Look at the Gargwas!](SCREENSHOTS/screenshot03.jpg?raw=true "Look at the Gargwas!")
+![MH MAP](SCREENSHOTS/Comparison-001.jpg?raw=true "comparison1")
+![MH MAP](SCREENSHOTS/Comparison-002.jpg?raw=true "comparison2")
 ![MH MAP](SCREENSHOTS/screenshot01.jpg?raw=true "MAP")
 ![MH MAP](SCREENSHOTS/screenshot02.jpg?raw=true "MAP2")
 
