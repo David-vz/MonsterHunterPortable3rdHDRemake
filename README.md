@@ -29,6 +29,7 @@ Here are some screenshots of some of the progress so far:
 ![MH MAP](SCREENSHOTS/Comparison-002.png?raw=true "comparison2")
 ![MH MAP](SCREENSHOTS/screenshot01.jpg?raw=true "MAP")
 ![MH MAP](SCREENSHOTS/screenshot02.jpg?raw=true "MAP2")
+![MH MAP](SCREENSHOTS/CHEST.gif?raw=true "Chest Animation")
 
 Thanks and Credits:
 Thanks to Zindea for helping with texture extraction on the WiiU!
